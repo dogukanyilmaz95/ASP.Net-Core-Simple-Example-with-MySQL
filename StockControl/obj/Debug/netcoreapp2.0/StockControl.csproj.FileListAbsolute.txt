@@ -1,0 +1,11 @@
+D:\Outputs\visualStudio\StockControl\StockControl\bin\Debug\netcoreapp2.0\StockControl.deps.json
+D:\Outputs\visualStudio\StockControl\StockControl\bin\Debug\netcoreapp2.0\StockControl.runtimeconfig.json
+D:\Outputs\visualStudio\StockControl\StockControl\bin\Debug\netcoreapp2.0\StockControl.runtimeconfig.dev.json
+D:\Outputs\visualStudio\StockControl\StockControl\bin\Debug\netcoreapp2.0\StockControl.dll
+D:\Outputs\visualStudio\StockControl\StockControl\bin\Debug\netcoreapp2.0\StockControl.pdb
+D:\Outputs\visualStudio\StockControl\StockControl\obj\Debug\netcoreapp2.0\StockControl.csprojResolveAssemblyReference.cache
+D:\Outputs\visualStudio\StockControl\StockControl\obj\Debug\netcoreapp2.0\StockControl.csproj.CoreCompileInputs.cache
+D:\Outputs\visualStudio\StockControl\StockControl\obj\Debug\netcoreapp2.0\StockControl.AssemblyInfoInputs.cache
+D:\Outputs\visualStudio\StockControl\StockControl\obj\Debug\netcoreapp2.0\StockControl.AssemblyInfo.cs
+D:\Outputs\visualStudio\StockControl\StockControl\obj\Debug\netcoreapp2.0\StockControl.dll
+D:\Outputs\visualStudio\StockControl\StockControl\obj\Debug\netcoreapp2.0\StockControl.pdb
