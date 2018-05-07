@@ -12,8 +12,8 @@ namespace StockControl.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseMySQL("server=localhost;user=root;password=123456;persistsecurityinfo=True;database=stockcontrol;SslMode=none");
-              //  optionsBuilder.UseSqlServer(@"Data Source=DOGUKANYILMAZ\SQLEXPRESS;Initial Catalog=StokTakip;Integrated Security=True;User ID=sa;Password=123456");
+                optionsBuilder.UseMySQL("server=localhost;user=******;password=******;persistsecurityinfo=True;database=stockcontrol;SslMode=none");
+              //  optionsBuilder.UseSqlServer(@"Data Source=********\*****;Initial Catalog=StokTakip;Integrated Security=True;User ID=*******;Password=************");
             }
         }
 
